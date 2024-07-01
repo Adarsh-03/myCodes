@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="hello.css"?>
+<root>
+	<book-name>
+		My XML Book
+	</book-name>
+	<author-name>nbjhv
+		RoseIndia
+	</author-name>
+	<short-desc>
+		This is good for beginners in XML. This book helps beginners to learn XML easily and use XML
+		concepts in their real development.
+	</short-desc>
+</root>

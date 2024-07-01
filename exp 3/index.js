@@ -1,0 +1,8 @@
+document.write("<li><b>Code Name: <b/>" + navigator.appCodeName)
+document.write("<li><b>App Name: <b/>" + navigator.appName)
+document.write("<li><b>App version: <b/>" + navigator.appVersion)
+document.write("<li><b>User Agent: <b/>" + navigator.userAgent)
+document.write("<li><b>Language: <b/>" + navigator.language)
+document.write("<li><b>Platform: <b/>" + navigator.platform)
+document.write("<li><b>Geo Location: <b/>" + navigator.geolocation)
+document.write("<li><b>Product: <b/>" + navigator.product)

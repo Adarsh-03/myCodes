@@ -1,0 +1,13 @@
+book-author{
+    display: block;
+    text-align: center;
+    font-size: 2em;
+    font-style: italic;
+}
+short-desc{
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    color: #000;
+    background-color: rgb(255, 149, 0);
+}
